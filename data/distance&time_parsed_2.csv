@@ -1,0 +1,9 @@
+city_pair,distance_to_largest_city,time_to_largest_city
+"('port%20charlotte,FL', 'jacksonville,FL')",318.298015,265.45
+"('los%20angeles,CA', 'los%20angeles,CA')",0.0,0.0
+"('houston,TX', 'houston,TX')",0.0,0.0
+"('syracuse,NY', 'new%20york%20city,NY')",246.407232,224.65
+"('tacoma,WA', 'seattle,WA')",33.754747,35.43333333333333
+"('panama%20city,FL', 'jacksonville,FL')",271.153961,246.7
+"('fayetteville,NC', 'charlotte,NC')",134.617583,151.6
+"('fort%20worth,TX', 'houston,TX')",262.192546,214.03333333333333
