@@ -73,10 +73,10 @@
     * [scikit-learn (1.2.2)](https://scikit-learn.org/stable/index.html)
     * [category-encoders (2.6.1)](https://contrib.scikit-learn.org/category_encoders/)
     * [catboost (1.2)](https://catboost.ai/)
-    * [beautifulsoup4==4.12.0](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-    * [scipy==1.9.3](https://docs.scipy.org/doc/scipy-1.9.3/tutorial/index.html)
-    * [wikipedia==1.4.0](https://wikipedia.readthedocs.io/en/latest/quickstart.html#quickstart)
-    * [urllib3==2.0.3](https://urllib3.readthedocs.io/en/stable/)
+    * [beautifulsoup4 (4.12.0)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+    * [scipy (1.9.3)](https://docs.scipy.org/doc/scipy-1.9.3/tutorial/index.html)
+    * [wikipedia (1.4.0)](https://wikipedia.readthedocs.io/en/latest/quickstart.html#quickstart)
+    * [urllib3 (2.0.3)](https://urllib3.readthedocs.io/en/stable/)
  
 ## Установка проекта
 ```
@@ -90,4 +90,4 @@ git clone https://github.com/MaximZhambalov/Project_Final
 ## Выводы
 В этом проекте:
 - проведён разведовательный анализ данных, обработан и подготовлен датасет для модели;
-- была построена модель, предсказывающая цену на недвижимость. Финальное значение метрик на тестовой *MAE = 79278*, *MAPE = 20.7%* и $R^2\ =\ 0.837$.
+- была построена модель, предсказывающая цену на недвижимость. Финальное значение метрик на тестовой *MAE = 76637*, *MAPE = 20.6%* и $R^2\ =\ 0.839$.
