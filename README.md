@@ -82,7 +82,7 @@
 ```
 git clone https://github.com/MaximZhambalov/Project_Final
 ```
-Датасет по проекту можно найти [здесь.](https://disk.yandex.ru/d/NRDajlYMtq8f4w)
+Датасет по проекту можно найти [здесь.](https://disk.yandex.ru/d/G2GWUfiUg80S-g)
 
 ## Использование
 Загрузка, предобработка и обучение модели находятся в *jupyter*-ноутбуке **Project_Final.ipynb**. В ноутбуках **parser_city_info.ipynb** и **parser_coordinates.ipynb** элементы парсинга географической информации.
